@@ -90,3 +90,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
    php artisan view:cache
    ```
 
+
+## Initial Data
+
+Seed the database with roles and an admin user:
+
+```bash
+php artisan db:seed
+```
+
+This creates default roles (admin, agent, comptable, client) and an initial admin user (admin@admin.com / password).
+
+A simple clients list can be viewed at `/clients` once migrations and seeders have been run.

